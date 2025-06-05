@@ -1,16 +1,35 @@
-# mini_mart
+# 🛒 MiniMart App
 
-A new Flutter project.
+MiniMart is a modern, responsive Flutter application designed to simulate a simple e-commerce shopping experience. It includes key features such as item listing, cart management,  all built with clean architecture and BLoC state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 Home screen with item listing
+- 🧺 Add to Cart and Quantity Update
+- 📦 Real-time Cart Total Calculation
+- 🧪 Scalable architecture with Repository + BLoC pattern
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Tech Stack
+
+| Technology       | Usage |
+|------------------|-------|
+| **Flutter**      | SDK version `3.22.2` |
+| **Dart**         | Null-safety enabled |
+| **BLoC**         | Business logic management (`flutter_bloc`) |
+| **Flutter SVG**  | SVG image support |
+| **Toastification** | Toasts and notifications |
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/arhziz/mini_mart.git
+cd mini_mart
+
